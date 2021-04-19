@@ -1,4 +1,4 @@
-package com.github.chen0040.mlp.enums;
+package org.hps.mlp.enums;
 
 
 /**

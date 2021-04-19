@@ -1,14 +1,13 @@
-package com.github.chen0040.mlp.ann.classifiers;
+package org.hps.mlp.ann.classifiers;
 
 
 import com.github.chen0040.data.frame.DataFrame;
 import com.github.chen0040.data.frame.DataQuery;
 import com.github.chen0040.data.frame.DataRow;
-import com.github.chen0040.mlp.enums.LearningMethod;
-import com.github.chen0040.mlp.enums.WeightUpdateMode;
-import com.github.chen0040.mlp.functions.Sigmoid;
-import com.github.chen0040.mlp.functions.SoftMax;
-import com.github.chen0040.mlp.utils.FileUtils;
+import org.hps.mlp.enums.LearningMethod;
+import org.hps.mlp.enums.WeightUpdateMode;
+import org.hps.mlp.functions.Sigmoid;
+import org.hps.mlp.utils.FileUtils;
 import org.testng.annotations.Test;
 
 import java.io.FileNotFoundException;

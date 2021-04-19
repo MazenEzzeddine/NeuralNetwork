@@ -1,10 +1,9 @@
-package com.github.chen0040.mlp.ann;
+package org.hps.mlp.ann;
 import com.github.chen0040.data.frame.DataFrame;
 import com.github.chen0040.data.frame.DataRow;
 import com.github.chen0040.data.utils.transforms.Standardization;
-import com.github.chen0040.mlp.enums.LearningMethod;
-import com.github.chen0040.mlp.enums.WeightUpdateMode;
-import com.github.chen0040.mlp.functions.RangeScaler;
+import org.hps.mlp.enums.LearningMethod;
+import org.hps.mlp.enums.WeightUpdateMode;
 import lombok.Getter;
 import lombok.Setter;
 

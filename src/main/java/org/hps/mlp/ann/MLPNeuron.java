@@ -1,4 +1,4 @@
-package com.github.chen0040.mlp.ann;
+package org.hps.mlp.ann;
 
 
 import java.util.HashMap;

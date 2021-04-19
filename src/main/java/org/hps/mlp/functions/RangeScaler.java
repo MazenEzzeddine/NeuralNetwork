@@ -1,4 +1,4 @@
-package com.github.chen0040.mlp.functions;
+package org.hps.mlp.functions;
 
 
 import com.github.chen0040.data.utils.transforms.Standardization;

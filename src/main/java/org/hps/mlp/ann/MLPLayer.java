@@ -1,8 +1,8 @@
-package com.github.chen0040.mlp.ann;
+package org.hps.mlp.ann;
 
 
-import com.github.chen0040.mlp.functions.Sigmoid;
-import com.github.chen0040.mlp.functions.TransferFunction;
+import org.hps.mlp.functions.Sigmoid;
+import org.hps.mlp.functions.TransferFunction;
 
 import java.util.ArrayList;
 import java.util.List;

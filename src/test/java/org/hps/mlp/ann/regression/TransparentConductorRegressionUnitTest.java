@@ -1,12 +1,11 @@
-package com.github.chen0040.mlp.ann.regression;
+package org.hps.mlp.ann.regression;
 
 import com.github.chen0040.data.frame.DataFrame;
 import com.github.chen0040.data.frame.DataQuery;
-import com.github.chen0040.data.frame.Sampler;
 import com.github.chen0040.data.utils.TupleTwo;
-import com.github.chen0040.mlp.enums.WeightUpdateMode;
-import com.github.chen0040.mlp.functions.RangeScaler;
-import com.github.chen0040.mlp.utils.FileUtils;
+import org.hps.mlp.enums.WeightUpdateMode;
+import org.hps.mlp.functions.RangeScaler;
+import org.hps.mlp.utils.FileUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testng.annotations.Test;

@@ -1,8 +1,8 @@
-package com.github.chen0040.mlp.functions;
+package org.hps.mlp.functions;
 
 
-import com.github.chen0040.mlp.ann.MLPLayer;
-import com.github.chen0040.mlp.ann.MLPNeuron;
+import org.hps.mlp.ann.MLPLayer;
+import org.hps.mlp.ann.MLPNeuron;
 
 
 /**

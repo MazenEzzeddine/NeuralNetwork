@@ -1,9 +1,8 @@
-package com.github.chen0040.mlp.ann.classifiers;
+package org.hps.mlp.ann.classifiers;
 
 
 import com.github.chen0040.data.frame.DataRow;
-import com.github.chen0040.mlp.ann.MLP;
-import com.github.chen0040.mlp.ann.MLPNet;
+import org.hps.mlp.ann.MLP;
 
 import java.util.List;
 import java.util.function.Supplier;
