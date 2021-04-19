@@ -1,14 +1,13 @@
-package com.github.chen0040.mlp.ann.regression;
+package org.hps.mlp.ann.regression;
 
 import com.github.chen0040.data.frame.DataFrame;
 import com.github.chen0040.data.frame.DataRow;
 import com.github.chen0040.data.utils.transforms.Standardization;
-import com.github.chen0040.mlp.enums.LearningMethod;
-import com.github.chen0040.mlp.enums.WeightUpdateMode;
-import com.github.chen0040.mlp.functions.Identity;
-import com.github.chen0040.mlp.functions.RangeScaler;
-import com.github.chen0040.mlp.functions.Sigmoid;
-import com.github.chen0040.mlp.functions.TransferFunction;
+import org.hps.mlp.enums.LearningMethod;
+import org.hps.mlp.enums.WeightUpdateMode;
+import org.hps.mlp.functions.Identity;
+import org.hps.mlp.functions.Sigmoid;
+import org.hps.mlp.functions.TransferFunction;
 import lombok.Getter;
 import lombok.Setter;
 

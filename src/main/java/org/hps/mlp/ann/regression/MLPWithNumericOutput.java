@@ -1,8 +1,8 @@
-package com.github.chen0040.mlp.ann.regression;
+package org.hps.mlp.ann.regression;
 
 
 import com.github.chen0040.data.frame.DataRow;
-import com.github.chen0040.mlp.ann.MLP;
+import org.hps.mlp.ann.MLP;
 
 
 /**
